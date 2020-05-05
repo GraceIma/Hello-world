@@ -1,5 +1,6 @@
 # Hello-family
 My name is Grace Ima
 I am new to this programing language
-And I do hope to Improve swiftly.
-
+and I do hope to improve swiftly.
+As a beginner I do hope to learn the basic skills
+needed to get the job donee to
